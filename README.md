@@ -1,5 +1,5 @@
 # final_rusttask
-file:///D:/ImgCreator.ai%20%20an%20inventory%20app%20in%20RUST%20.webp
+https://github.com/Samankhalid01/final_rusttask/blob/main/ImgCreator.ai%20%20an%20inventory%20app%20in%20RUST%20.webp
 ## description
 Introducing the "Inventor App" – a blockchain-based inventory management system developed in Rust. This innovative solution empowers businesses to streamline their inventory processes efficiently. With a user-friendly text-based interface, store managers can effortlessly add, edit, and delete products, ensuring seamless inventory control. The system incorporates robust error handling for data integrity and basic security measures like authentication. Leveraging Rust's ownership and borrowing, it optimizes memory usage for enhanced performance. The Inventor App generates clear and intuitive reports, facilitating informed decision-making. This project, with its concise codebase, exemplifies Rust's capabilities in crafting secure, efficient, and reliable blockchain applications for modern inventory management needs.
 ## vision
